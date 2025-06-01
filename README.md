@@ -89,8 +89,8 @@
   <h2>🚀 Getting Started</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/arduino-embedded-projects.git
-cd arduino-embedded-projects</code></pre>
+      <pre><code>git clone https://github.com/ajoumah/Arduino.git
+cd Arduino</code></pre>
     </li>
     <li>Open any project <code>.ino</code> file in the Arduino IDE.</li>
     <li>Connect your Arduino board and upload the code.</li>
